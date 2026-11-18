@@ -1,0 +1,49 @@
+bom_line,sku_id,component_description,qty_per_assembly,annual_assembly_volume,should_cost_unit_inr,supplier_id,supplier_name,quoted_unit_price_inr,nre_tooling_cost_inr,freight_duty_pct,quoted_lead_time_days,technical_quality_score
+BOM-01,CON-101,Heavy-Duty 24-Pin Rectangular Housing,2,2500,185.0,SUP-001,Precision Interconnect India Pvt Ltd,179.98,0,0.03,14,94
+BOM-01,CON-101,Heavy-Duty 24-Pin Rectangular Housing,2,2500,185.0,SUP-002,Deccan Cable & Harness Systems,184.81,0,0.035,16,91
+BOM-01,CON-101,Heavy-Duty 24-Pin Rectangular Housing,2,2500,185.0,SUP-003,Kaveri Electro-Mech Components,180.4,0,0.032,15,95
+BOM-01,CON-101,Heavy-Duty 24-Pin Rectangular Housing,2,2500,185.0,SUP-007,Shenzhen SinoConnect Electronics,168.22,0,0.095,26,86
+BOM-02,CON-102,M12 8-Pin Circular Industrial Plug,4,2500,142.0,SUP-001,Precision Interconnect India Pvt Ltd,139.52,0,0.03,14,94
+BOM-02,CON-102,M12 8-Pin Circular Industrial Plug,4,2500,142.0,SUP-002,Deccan Cable & Harness Systems,143.95,0,0.035,16,91
+BOM-02,CON-102,M12 8-Pin Circular Industrial Plug,4,2500,142.0,SUP-003,Kaveri Electro-Mech Components,137.11,0,0.032,15,95
+BOM-02,CON-102,M12 8-Pin Circular Industrial Plug,4,2500,142.0,SUP-007,Shenzhen SinoConnect Electronics,129.19,0,0.095,26,86
+BOM-03,CON-103,Deutsch DT 12-Pin Sealed Receptacle,2,2500,168.0,SUP-001,Precision Interconnect India Pvt Ltd,161.4,0,0.03,14,94
+BOM-03,CON-103,Deutsch DT 12-Pin Sealed Receptacle,2,2500,168.0,SUP-002,Deccan Cable & Harness Systems,168.57,0,0.035,16,91
+BOM-03,CON-103,Deutsch DT 12-Pin Sealed Receptacle,2,2500,168.0,SUP-003,Kaveri Electro-Mech Components,159.16,0,0.032,15,95
+BOM-03,CON-103,Deutsch DT 12-Pin Sealed Receptacle,2,2500,168.0,SUP-007,Shenzhen SinoConnect Electronics,154.09,0,0.095,26,86
+BOM-04,CBL-111,18 AWG Braided Shielded Twisted Pair (m),12,2500,48.0,SUP-001,Precision Interconnect India Pvt Ltd,46.19,0,0.03,14,94
+BOM-04,CBL-111,18 AWG Braided Shielded Twisted Pair (m),12,2500,48.0,SUP-002,Deccan Cable & Harness Systems,48.6,0,0.035,16,91
+BOM-04,CBL-111,18 AWG Braided Shielded Twisted Pair (m),12,2500,48.0,SUP-003,Kaveri Electro-Mech Components,45.52,0,0.032,15,95
+BOM-04,CBL-111,18 AWG Braided Shielded Twisted Pair (m),12,2500,48.0,SUP-007,Shenzhen SinoConnect Electronics,44.54,0,0.095,26,86
+BOM-05,CBL-115,CAT6A Industrial Drag-Chain Ethernet Cable (m),6,2500,78.0,SUP-001,Precision Interconnect India Pvt Ltd,75.93,0,0.03,14,94
+BOM-05,CBL-115,CAT6A Industrial Drag-Chain Ethernet Cable (m),6,2500,78.0,SUP-002,Deccan Cable & Harness Systems,78.23,0,0.035,16,91
+BOM-05,CBL-115,CAT6A Industrial Drag-Chain Ethernet Cable (m),6,2500,78.0,SUP-003,Kaveri Electro-Mech Components,76.2,0,0.032,15,95
+BOM-05,CBL-115,CAT6A Industrial Drag-Chain Ethernet Cable (m),6,2500,78.0,SUP-007,Shenzhen SinoConnect Electronics,70.72,0,0.095,26,86
+BOM-06,CBL-117,CAN-Bus J1939 Twinax Shielded Cable (m),8,2500,68.0,SUP-001,Precision Interconnect India Pvt Ltd,67.9,0,0.03,14,94
+BOM-06,CBL-117,CAN-Bus J1939 Twinax Shielded Cable (m),8,2500,68.0,SUP-002,Deccan Cable & Harness Systems,67.39,0,0.035,16,91
+BOM-06,CBL-117,CAN-Bus J1939 Twinax Shielded Cable (m),8,2500,68.0,SUP-003,Kaveri Electro-Mech Components,64.75,0,0.032,15,95
+BOM-06,CBL-117,CAN-Bus J1939 Twinax Shielded Cable (m),8,2500,68.0,SUP-007,Shenzhen SinoConnect Electronics,62.33,0,0.095,26,86
+BOM-07,BSL-129,EMI/RFI 90-Degree Aluminum Die-Cast Backshell,2,2500,155.0,SUP-001,Precision Interconnect India Pvt Ltd,154.32,0,0.03,14,94
+BOM-07,BSL-129,EMI/RFI 90-Degree Aluminum Die-Cast Backshell,2,2500,155.0,SUP-002,Deccan Cable & Harness Systems,155.04,0,0.035,16,91
+BOM-07,BSL-129,EMI/RFI 90-Degree Aluminum Die-Cast Backshell,2,2500,155.0,SUP-003,Kaveri Electro-Mech Components,151.47,0,0.032,15,95
+BOM-07,BSL-129,EMI/RFI 90-Degree Aluminum Die-Cast Backshell,2,2500,155.0,SUP-007,Shenzhen SinoConnect Electronics,141.63,0,0.095,26,86
+BOM-08,BSL-130,Heat-Shrinkable Polyolefin Transition Boot,6,2500,44.0,SUP-001,Precision Interconnect India Pvt Ltd,43.65,0,0.03,14,94
+BOM-08,BSL-130,Heat-Shrinkable Polyolefin Transition Boot,6,2500,44.0,SUP-002,Deccan Cable & Harness Systems,44.26,0,0.035,16,91
+BOM-08,BSL-130,Heat-Shrinkable Polyolefin Transition Boot,6,2500,44.0,SUP-003,Kaveri Electro-Mech Components,41.73,0,0.032,15,95
+BOM-08,BSL-130,Heat-Shrinkable Polyolefin Transition Boot,6,2500,44.0,SUP-007,Shenzhen SinoConnect Electronics,40.76,0,0.095,26,86
+BOM-09,BSL-131,Silicone Multi-Wire Grommet Seal (IP67),8,2500,22.0,SUP-001,Precision Interconnect India Pvt Ltd,21.94,0,0.03,14,94
+BOM-09,BSL-131,Silicone Multi-Wire Grommet Seal (IP67),8,2500,22.0,SUP-002,Deccan Cable & Harness Systems,22.22,0,0.035,16,91
+BOM-09,BSL-131,Silicone Multi-Wire Grommet Seal (IP67),8,2500,22.0,SUP-003,Kaveri Electro-Mech Components,20.69,0,0.032,15,95
+BOM-09,BSL-131,Silicone Multi-Wire Grommet Seal (IP67),8,2500,22.0,SUP-007,Shenzhen SinoConnect Electronics,19.68,0,0.095,26,86
+BOM-10,BSL-134,Convoluted Split Loom Tubing PA6 (m),10,2500,28.0,SUP-001,Precision Interconnect India Pvt Ltd,27.52,0,0.03,14,94
+BOM-10,BSL-134,Convoluted Split Loom Tubing PA6 (m),10,2500,28.0,SUP-002,Deccan Cable & Harness Systems,27.75,0,0.035,16,91
+BOM-10,BSL-134,Convoluted Split Loom Tubing PA6 (m),10,2500,28.0,SUP-003,Kaveri Electro-Mech Components,26.76,0,0.032,15,95
+BOM-10,BSL-134,Convoluted Split Loom Tubing PA6 (m),10,2500,28.0,SUP-007,Shenzhen SinoConnect Electronics,25.26,0,0.095,26,86
+BOM-11,BSL-136,Braided Nomex Abrasion Sleeve (m),5,2500,65.0,SUP-001,Precision Interconnect India Pvt Ltd,64.26,0,0.03,14,94
+BOM-11,BSL-136,Braided Nomex Abrasion Sleeve (m),5,2500,65.0,SUP-002,Deccan Cable & Harness Systems,64.49,0,0.035,16,91
+BOM-11,BSL-136,Braided Nomex Abrasion Sleeve (m),5,2500,65.0,SUP-003,Kaveri Electro-Mech Components,62.37,0,0.032,15,95
+BOM-11,BSL-136,Braided Nomex Abrasion Sleeve (m),5,2500,65.0,SUP-007,Shenzhen SinoConnect Electronics,59.36,0,0.095,26,86
+BOM-12,HRN-128,"Sub-Assembly Crimping, Overmolding & Hi-Pot Testing",1,2500,680.0,SUP-001,Precision Interconnect India Pvt Ltd,669.59,45000,0.03,14,94
+BOM-12,HRN-128,"Sub-Assembly Crimping, Overmolding & Hi-Pot Testing",1,2500,680.0,SUP-002,Deccan Cable & Harness Systems,684.22,30000,0.035,16,91
+BOM-12,HRN-128,"Sub-Assembly Crimping, Overmolding & Hi-Pot Testing",1,2500,680.0,SUP-003,Kaveri Electro-Mech Components,647.48,65000,0.032,15,95
+BOM-12,HRN-128,"Sub-Assembly Crimping, Overmolding & Hi-Pot Testing",1,2500,680.0,SUP-007,Shenzhen SinoConnect Electronics,623.76,85000,0.095,26,86

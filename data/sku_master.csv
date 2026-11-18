@@ -1,0 +1,46 @@
+sku_id,sku_description,category,rfq_benchmark_unit_price_inr,standard_lead_time_days,annual_forecast_qty,on_hand_inventory_qty,safety_stock_qty
+CON-101,Heavy-Duty 24-Pin Rectangular Housing,Multi-Pin Connectors,185.0,14,16995,2328,698
+CON-102,M12 8-Pin Circular Industrial Plug,Multi-Pin Connectors,142.0,12,6590,5164,271
+CON-103,Deutsch DT 12-Pin Sealed Receptacle,Multi-Pin Connectors,168.0,14,13164,1515,541
+CON-104,Board-to-Wire 16-Pin Gold Contact Header,Multi-Pin Connectors,96.0,10,7465,818,307
+CON-105,High-Voltage 4-Pin EV Interlock Connector,Multi-Pin Connectors,420.0,18,5626,493,231
+CON-106,RF Coaxial SMA Bulkhead Jack,Multi-Pin Connectors,115.0,12,15623,2440,642
+CON-107,Modular DIN 41612 64-Pin Backplane Conn,Multi-Pin Connectors,260.0,15,17223,1132,708
+CON-108,Micro-Fit 10-Pin Dual-Row Receptacle,Multi-Pin Connectors,64.0,10,2885,1834,119
+CON-109,IP68 Waterproof 6-Pin Sensor Connector,Multi-Pin Connectors,132.0,12,1969,243,81
+CON-110,Fiber Optic LC Duplex Industrial Adapter,Multi-Pin Connectors,210.0,16,3633,1991,149
+CBL-111,18 AWG Braided Shielded Twisted Pair (per m),Shielded Cables & Wires,48.0,10,7596,957,312
+CBL-112,14 AWG Cross-Linked XLPE Automotive Wire (per m),Shielded Cables & Wires,36.0,8,9866,1703,405
+CBL-113,22 AWG 4-Core Foil-Shielded Instrumentation Cable (per m),Shielded Cables & Wires,62.0,12,3947,2098,162
+CBL-114,10 AWG High-Temp Silicone Power Cable (per m),Shielded Cables & Wires,95.0,12,1389,91,57
+CBL-115,CAT6A Industrial Drag-Chain Ethernet Cable (per m),Shielded Cables & Wires,78.0,14,4756,365,195
+CBL-116,16 AWG Tinned Copper Grounding Braid (per m),Shielded Cables & Wires,54.0,10,15702,1678,645
+CBL-117,CAN-Bus J1939 Twinax Shielded Cable (per m),Shielded Cables & Wires,68.0,12,11827,1491,486
+CBL-118,20 AWG PTFE Fluoropolymer Aerospace Wire (per m),Shielded Cables & Wires,112.0,15,11755,1127,483
+CBL-119,Multi-Core 12x0.75mm Control Flex Cable (per m),Shielded Cables & Wires,135.0,14,9633,792,396
+HRN-120,Main Chassis Power Distribution Harness,Wiring Harnesses,2450.0,21,3345,2410,137
+HRN-121,CNC Servo Motor Feedback & Encoder Harness,Wiring Harnesses,1380.0,18,16987,1350,698
+HRN-122,Cabinet Door I/O Sensor Loom Assembly,Wiring Harnesses,890.0,15,13406,2057,551
+HRN-123,HVAC Compressor Control Sub-Harness,Wiring Harnesses,640.0,14,15741,1639,647
+HRN-124,Battery Management System (BMS) Sense Harness,Wiring Harnesses,1720.0,20,3473,2978,143
+HRN-125,Dashboard HMI Display Ribbon & Power Assembly,Wiring Harnesses,760.0,15,12005,2072,493
+HRN-126,Engine Bay Overmolded Sensor Wiring Loom,Wiring Harnesses,1950.0,22,1900,203,78
+HRN-127,Telematics & GPS Antenna Jumper Harness,Wiring Harnesses,520.0,14,8073,4932,332
+HRN-128,Robotics 6-Axis Articulated Arm Flex Harness,Wiring Harnesses,3150.0,25,601,318,25
+BSL-129,EMI/RFI 90-Degree Aluminum Die-Cast Backshell,Backshells & Seals,155.0,12,12734,1012,523
+BSL-130,Heat-Shrinkable Polyolefin Transition Boot,Backshells & Seals,44.0,8,8829,1064,363
+BSL-131,Silicone Multi-Wire Grommet Seal (IP67),Backshells & Seals,22.0,7,2216,370,91
+BSL-132,Strain Relief Cable Gland M25 Brass Nickel,Backshells & Seals,58.0,9,9729,1199,400
+BSL-133,Conductive Elastomer Flange Gasket,Backshells & Seals,39.0,9,13385,1687,550
+BSL-134,Convoluted Split Loom Tubing PA6 (per m),Backshells & Seals,28.0,7,7531,1279,309
+BSL-135,Cavity Sealing Plug Silicone (Pack of 10),Backshells & Seals,18.0,7,6476,639,266
+BSL-136,braided Nomex Abrasion Sleeve (per m),Backshells & Seals,65.0,10,17648,2224,725
+BSL-137,EMI Shielding Copper Tape Roll 25mm,Backshells & Seals,190.0,10,9206,757,378
+BOX-138,IP66 Powder-Coated Sheet Metal Junction Box,Box Build Enclosures,1850.0,20,3095,382,127
+BOX-139,Die-Cast Aluminum ECU Controller Housing,Box Build Enclosures,1240.0,18,16622,1457,683
+BOX-140,DIN-Rail Modular Relay & Terminal Sub-Assembly,Box Build Enclosures,2680.0,22,791,121,33
+BOX-141,Polycarbonate Clear-Lid Telemetry Enclosure,Box Build Enclosures,980.0,15,13866,988,570
+BOX-142,Stainless Steel 316L Washdown Control Cabinet,Box Build Enclosures,4450.0,28,2678,1614,110
+BOX-143,Custom Machined Heat-Sink Power Module Chassis,Box Build Enclosures,1620.0,20,2263,205,93
+BOX-144,Pre-Wired Industrial PDU 8-Channel Box Build,Box Build Enclosures,3890.0,25,902,109,37
+BOX-145,IP68 Potted Sensor Junction Module,Box Build Enclosures,790.0,16,13037,7715,536

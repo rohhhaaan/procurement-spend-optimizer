@@ -1,0 +1,11 @@
+supplier_id,supplier_name,location,supplier_tier,payment_terms,base_otd_prob,price_index,default_freight_mode
+SUP-001,Precision Interconnect India Pvt Ltd,"Pune, MH",Tier-1 Contract,Net 60,0.96,1.0,Road - FTL
+SUP-002,Deccan Cable & Harness Systems,"Bengaluru, KA",Tier-1 Contract,Net 45,0.94,1.01,Road - LTL
+SUP-003,Kaveri Electro-Mech Components,"Chennai, TN",Tier-1 Contract,Net 60,0.95,0.99,Road - FTL
+SUP-004,Apex Industrial Enclosures,"Ahmedabad, GJ",Tier-2 Approved,Net 45,0.88,1.04,Road - LTL
+SUP-005,Narmada Polymer & Seal Tech,"Vadodara, GJ",Tier-2 Approved,Net 30,0.9,1.03,Road - LTL
+SUP-006,Vindhya Wire & Extrusion Corp,"Bhiwadi, RJ",Tier-2 Approved,Net 45,0.85,1.05,Road - LTL
+SUP-007,Shenzhen SinoConnect Electronics,"Shenzhen, CN",Global Tier-1,Net 60,0.87,0.94,Sea + Customs
+SUP-008,Metro Rapid Spot Supplies,"Mumbai, MH",Spot / Maverick,Net 15,0.74,1.18,Air Express
+SUP-009,NCR QuickTurn Harness Works,"Gurugram, HR",Spot / Maverick,Net 15,0.78,1.15,Air Express
+SUP-010,Southern Fast-Track Connectors,"Coimbatore, TN",Spot / Maverick,Net 30,0.8,1.13,Air Express

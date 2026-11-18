@@ -1,0 +1,16 @@
+sku_id,sku_description,category,maverick_po_count,maverick_units,benchmark_unit_price_inr,avg_maverick_unit_price_inr,material_price_savings_inr,freight_mode_savings_inr,total_recoverable_savings_inr,landed_cost_reduction_pct
+BOX-142,Stainless Steel 316L Washdown Control Cabinet,Box Build Enclosures,12,920,4450.0,5222.04,699211.2,781985.68,1481196.88,25.81
+HRN-128,Robotics 6-Axis Articulated Arm Flex Harness,Wiring Harnesses,15,1000,3150.0,3646.93,508351.7,610678.37,1119030.07,25.46
+BOX-144,Pre-Wired Industrial PDU 8-Channel Box Build,Box Build Enclosures,10,640,3890.0,4489.77,388210.6,543356.58,931567.18,26.46
+BOX-143,Custom Machined Heat-Sink Power Module Chassis,Box Build Enclosures,20,1410,1620.0,1871.86,342993.7,423038.09,766031.79,24.38
+HRN-126,Engine Bay Overmolded Sensor Wiring Loom,Wiring Harnesses,12,930,1950.0,2261.95,289288.6,319963.81,609252.41,24.42
+BOX-140,DIN-Rail Modular Relay & Terminal Sub-Assembly,Box Build Enclosures,11,680,2680.0,3100.11,287347.1,286315.6,573662.7,23.24
+HRN-120,Main Chassis Power Distribution Harness,Wiring Harnesses,9,640,2450.0,2770.92,191288.2,311701.75,502989.95,23.57
+BSL-136,braided Nomex Abrasion Sleeve (per m),Backshells & Seals,17,24000,65.0,74.42,228170.0,270421.89,498591.89,23.51
+CON-104,Board-to-Wire 16-Pin Gold Contact Header,Multi-Pin Connectors,14,14500,96.0,112.22,237562.5,259241.0,496803.5,25.55
+HRN-121,CNC Servo Motor Feedback & Encoder Harness,Wiring Harnesses,15,1050,1380.0,1573.99,205520.9,281600.03,487120.93,24.43
+CON-105,High-Voltage 4-Pin EV Interlock Connector,Multi-Pin Connectors,11,3300,420.0,480.91,209480.0,222344.63,431824.63,23.05
+BOX-138,IP66 Powder-Coated Sheet Metal Junction Box,Box Build Enclosures,10,690,1850.0,2128.53,175573.2,213305.3,388878.5,22.66
+CBL-115,CAT6A Industrial Drag-Chain Ethernet Cable (per m),Shielded Cables & Wires,9,12750,78.0,89.73,148655.0,214904.07,363559.07,26.01
+HRN-124,Battery Management System (BMS) Sense Harness,Wiring Harnesses,13,590,1720.0,1992.49,159165.3,185100.91,344266.21,24.6
+CON-108,Micro-Fit 10-Pin Dual-Row Receptacle,Multi-Pin Connectors,13,14000,64.0,73.84,143135.0,171081.82,314216.82,25.22

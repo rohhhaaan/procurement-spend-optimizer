@@ -1,0 +1,46 @@
+sku_id,sku_description,category,rfq_benchmark_unit_price_inr,annual_forecast_qty,on_hand_inventory_qty,safety_stock_qty,inventory_value_inr,annual_inventory_turns,days_of_supply_dos,excess_units,excess_working_capital_inr,inventory_health_status
+BOX-142,Stainless Steel 316L Washdown Control Cabinet,Box Build Enclosures,4450.0,2678,1614,110,7182300.0,1.66,220.0,1064.0,4734800.0,Slow-Moving / Excess Risk
+HRN-120,Main Chassis Power Distribution Harness,Wiring Harnesses,2450.0,3345,2410,137,5904500.0,1.39,263.0,1723.0,4221350.0,Slow-Moving / Excess Risk
+BOX-145,IP68 Potted Sensor Junction Module,Box Build Enclosures,790.0,13037,7715,536,6094850.0,1.69,216.0,5036.0,3978440.0,Slow-Moving / Excess Risk
+HRN-124,Battery Management System (BMS) Sense Harness,Wiring Harnesses,1720.0,3473,2978,143,5122160.0,1.17,313.0,2264.0,3894080.0,Slow-Moving / Excess Risk
+HRN-127,Telematics & GPS Antenna Jumper Harness,Wiring Harnesses,520.0,8073,4932,332,2564640.0,1.64,223.0,3273.0,1701960.0,Slow-Moving / Excess Risk
+HRN-128,Robotics 6-Axis Articulated Arm Flex Harness,Wiring Harnesses,3150.0,601,318,25,1001700.0,1.89,193.1,195.0,614250.0,Slow-Moving / Excess Risk
+CON-102,M12 8-Pin Circular Industrial Plug,Multi-Pin Connectors,142.0,6590,5164,271,733288.0,1.28,286.0,3810.0,541020.0,Slow-Moving / Excess Risk
+CON-110,Fiber Optic LC Duplex Industrial Adapter,Multi-Pin Connectors,210.0,3633,1991,149,418110.0,1.82,200.0,1244.0,261240.0,Slow-Moving / Excess Risk
+CBL-113,22 AWG 4-Core Foil-Shielded Instrumentation Cable (per m),Shielded Cables & Wires,62.0,3947,2098,162,130076.0,1.88,194.0,1287.0,79794.0,Slow-Moving / Excess Risk
+CON-108,Micro-Fit 10-Pin Dual-Row Receptacle,Multi-Pin Connectors,64.0,2885,1834,119,117376.0,1.57,232.0,1241.0,79424.0,Slow-Moving / Excess Risk
+CON-101,Heavy-Duty 24-Pin Rectangular Housing,Multi-Pin Connectors,185.0,16995,2328,698,430680.0,7.3,50.0,0.0,0.0,Optimal Stock
+CON-103,Deutsch DT 12-Pin Sealed Receptacle,Multi-Pin Connectors,168.0,13164,1515,541,254520.0,8.69,42.0,0.0,0.0,Optimal Stock
+CON-104,Board-to-Wire 16-Pin Gold Contact Header,Multi-Pin Connectors,96.0,7465,818,307,78528.0,9.13,40.0,0.0,0.0,Optimal Stock
+CON-105,High-Voltage 4-Pin EV Interlock Connector,Multi-Pin Connectors,420.0,5626,493,231,207060.0,11.41,32.0,0.0,0.0,Optimal Stock
+CON-106,RF Coaxial SMA Bulkhead Jack,Multi-Pin Connectors,115.0,15623,2440,642,280600.0,6.4,57.0,0.0,0.0,Optimal Stock
+CON-107,Modular DIN 41612 64-Pin Backplane Conn,Multi-Pin Connectors,260.0,17223,1132,708,294320.0,15.21,24.0,0.0,0.0,Optimal Stock
+CON-109,IP68 Waterproof 6-Pin Sensor Connector,Multi-Pin Connectors,132.0,1969,243,81,32076.0,8.1,45.0,0.0,0.0,Optimal Stock
+CBL-111,18 AWG Braided Shielded Twisted Pair (per m),Shielded Cables & Wires,48.0,7596,957,312,45936.0,7.94,46.0,0.0,0.0,Optimal Stock
+CBL-112,14 AWG Cross-Linked XLPE Automotive Wire (per m),Shielded Cables & Wires,36.0,9866,1703,405,61308.0,5.79,63.0,0.0,0.0,Optimal Stock
+CBL-114,10 AWG High-Temp Silicone Power Cable (per m),Shielded Cables & Wires,95.0,1389,91,57,8645.0,15.26,23.9,0.0,0.0,Optimal Stock
+CBL-115,CAT6A Industrial Drag-Chain Ethernet Cable (per m),Shielded Cables & Wires,78.0,4756,365,195,28470.0,13.03,28.0,0.0,0.0,Optimal Stock
+CBL-116,16 AWG Tinned Copper Grounding Braid (per m),Shielded Cables & Wires,54.0,15702,1678,645,90612.0,9.36,39.0,0.0,0.0,Optimal Stock
+CBL-117,CAN-Bus J1939 Twinax Shielded Cable (per m),Shielded Cables & Wires,68.0,11827,1491,486,101388.0,7.93,46.0,0.0,0.0,Optimal Stock
+CBL-118,20 AWG PTFE Fluoropolymer Aerospace Wire (per m),Shielded Cables & Wires,112.0,11755,1127,483,126224.0,10.43,35.0,0.0,0.0,Optimal Stock
+CBL-119,Multi-Core 12x0.75mm Control Flex Cable (per m),Shielded Cables & Wires,135.0,9633,792,396,106920.0,12.16,30.0,0.0,0.0,Optimal Stock
+HRN-121,CNC Servo Motor Feedback & Encoder Harness,Wiring Harnesses,1380.0,16987,1350,698,1863000.0,12.58,29.0,0.0,0.0,Optimal Stock
+HRN-122,Cabinet Door I/O Sensor Loom Assembly,Wiring Harnesses,890.0,13406,2057,551,1830730.0,6.52,56.0,0.0,0.0,Optimal Stock
+HRN-123,HVAC Compressor Control Sub-Harness,Wiring Harnesses,640.0,15741,1639,647,1048960.0,9.6,38.0,0.0,0.0,Optimal Stock
+HRN-125,Dashboard HMI Display Ribbon & Power Assembly,Wiring Harnesses,760.0,12005,2072,493,1574720.0,5.79,63.0,0.0,0.0,Optimal Stock
+HRN-126,Engine Bay Overmolded Sensor Wiring Loom,Wiring Harnesses,1950.0,1900,203,78,395850.0,9.36,39.0,0.0,0.0,Optimal Stock
+BSL-129,EMI/RFI 90-Degree Aluminum Die-Cast Backshell,Backshells & Seals,155.0,12734,1012,523,156860.0,12.58,29.0,0.0,0.0,Optimal Stock
+BSL-130,Heat-Shrinkable Polyolefin Transition Boot,Backshells & Seals,44.0,8829,1064,363,46816.0,8.3,44.0,0.0,0.0,Optimal Stock
+BSL-131,Silicone Multi-Wire Grommet Seal (IP67),Backshells & Seals,22.0,2216,370,91,8140.0,5.99,60.9,0.0,0.0,Optimal Stock
+BSL-132,Strain Relief Cable Gland M25 Brass Nickel,Backshells & Seals,58.0,9729,1199,400,69542.0,8.11,45.0,0.0,0.0,Optimal Stock
+BSL-133,Conductive Elastomer Flange Gasket,Backshells & Seals,39.0,13385,1687,550,65793.0,7.93,46.0,0.0,0.0,Optimal Stock
+BSL-134,Convoluted Split Loom Tubing PA6 (per m),Backshells & Seals,28.0,7531,1279,309,35812.0,5.89,62.0,0.0,0.0,Optimal Stock
+BSL-135,Cavity Sealing Plug Silicone (Pack of 10),Backshells & Seals,18.0,6476,639,266,11502.0,10.13,36.0,0.0,0.0,Optimal Stock
+BSL-136,braided Nomex Abrasion Sleeve (per m),Backshells & Seals,65.0,17648,2224,725,144560.0,7.94,46.0,0.0,0.0,Optimal Stock
+BSL-137,EMI Shielding Copper Tape Roll 25mm,Backshells & Seals,190.0,9206,757,378,143830.0,12.16,30.0,0.0,0.0,Optimal Stock
+BOX-138,IP66 Powder-Coated Sheet Metal Junction Box,Box Build Enclosures,1850.0,3095,382,127,706700.0,8.1,45.1,0.0,0.0,Optimal Stock
+BOX-139,Die-Cast Aluminum ECU Controller Housing,Box Build Enclosures,1240.0,16622,1457,683,1806680.0,11.41,32.0,0.0,0.0,Optimal Stock
+BOX-140,DIN-Rail Modular Relay & Terminal Sub-Assembly,Box Build Enclosures,2680.0,791,121,33,324280.0,6.54,55.8,0.0,0.0,Optimal Stock
+BOX-141,Polycarbonate Clear-Lid Telemetry Enclosure,Box Build Enclosures,980.0,13866,988,570,968240.0,14.03,26.0,0.0,0.0,Optimal Stock
+BOX-143,Custom Machined Heat-Sink Power Module Chassis,Box Build Enclosures,1620.0,2263,205,93,332100.0,11.04,33.1,0.0,0.0,Optimal Stock
+BOX-144,Pre-Wired Industrial PDU 8-Channel Box Build,Box Build Enclosures,3890.0,902,109,37,424010.0,8.28,44.1,0.0,0.0,Optimal Stock

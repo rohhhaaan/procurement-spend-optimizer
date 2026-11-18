@@ -1,0 +1,11 @@
+spend_rank,supplier_id,supplier_name,supplier_tier,total_pos,total_landed_spend_inr,spend_share_pct,net_price_variance_inr,weighted_price_variance_pct,otd_pct,avg_promised_lt_days,avg_actual_lt_days,avg_lt_slippage_days,supplier_status
+1,SUP-006,Vindhya Wire & Extrusion Corp,Tier-2 Approved,354,30345188.41,12.5,1449977.5,5.27,81.36,14.5,15.5,0.97,High Risk / Consolidate
+2,SUP-004,Apex Industrial Enclosures,Tier-2 Approved,327,27853054.08,11.48,1076862.7,4.21,86.54,14.6,15.0,0.44,Approved Core
+3,SUP-003,Kaveri Electro-Mech Components,Tier-1 Contract,330,27286337.72,11.24,-392316.7,-1.48,94.55,14.5,14.3,-0.19,Preferred Strategic
+4,SUP-002,Deccan Cable & Harness Systems,Tier-1 Contract,322,25556008.44,10.53,42500.2,0.17,94.1,14.4,14.3,-0.12,Preferred Strategic
+5,SUP-001,Precision Interconnect India Pvt Ltd,Tier-1 Contract,350,25338212.83,10.44,-183971.4,-0.75,96.0,14.1,13.9,-0.25,Preferred Strategic
+6,SUP-007,Shenzhen SinoConnect Electronics,Global Tier-1,318,24788457.89,10.21,-1400569.5,-5.82,87.42,21.4,21.8,0.38,Approved Core
+7,SUP-005,Narmada Polymer & Seal Tech,Tier-2 Approved,296,23980247.75,9.88,648136.6,2.9,91.55,14.5,14.6,0.04,Approved Core
+8,SUP-008,Metro Rapid Spot Supplies,Spot / Maverick,166,19860331.12,8.18,2534016.5,17.96,77.11,14.9,16.0,1.19,High Risk / Consolidate
+9,SUP-009,NCR QuickTurn Harness Works,Spot / Maverick,166,18867224.92,7.77,2018327.0,14.68,79.52,14.1,15.0,0.87,High Risk / Consolidate
+10,SUP-010,Southern Fast-Track Connectors,Spot / Maverick,171,18837214.48,7.76,1838506.1,13.21,83.04,14.6,15.3,0.71,High Risk / Consolidate
